@@ -45,4 +45,4 @@ vector vectorinvs(vector v){
 scalar innerprod(vector v, vector w){
 	return (scalar) (v.coords[0] * w.coords[0] + v.coords[1] * w.coords[1] + v.coords[2] * w.coords[2]);
 }
-
+//comment
